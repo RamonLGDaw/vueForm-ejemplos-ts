@@ -1,33 +1,4 @@
-# vueForm samples ts
+# Formularios VueForm
 
-This template should help get you started developing with Vue 3 in Vite.
+Este proyecto está diseñado para aprender a utilizar VueForm, un componente de formularios en Vue.js. Permite a los usuarios seleccionar diferentes tipos de formularios para interactuar, como campos de texto, fechas, rangos, deslizadores, cargadores de imágenes y firmas. Los formularios seleccionados se muestran dinámicamente en la interfaz de usuario. Es una excelente forma de explorar la integración y uso de componentes de formulario en aplicaciones Vue.js.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
